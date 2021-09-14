@@ -172,8 +172,8 @@
       style: basic
       url: https://www.facebook.com/
 
-    - name: Google+
-      icon: google plus g red
+    - name: Twiter
+      icon: twiter red
       style: basic
       url: https://plus.google.com/
 
