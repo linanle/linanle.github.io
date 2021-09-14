@@ -84,7 +84,7 @@
       url: https://home.zoho.com/home
 
     - name: 奇异のtravel
-#       icon: fa fa-plane
+      icon: paper plane red
       style: basic
       url: https://www.q1travel.cloud/aff.php?aff=498
 
