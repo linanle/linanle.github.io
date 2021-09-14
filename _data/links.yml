@@ -173,7 +173,7 @@
       url: https://www.facebook.com/
 
     - name: Twiter
-      icon: twiter blue
+#       icon: twiter blue
       style: basic
       url: https://plus.google.com/
 
