@@ -74,7 +74,7 @@
   - name: 工具
     links:
     - name: '百度网盘'
-#       icon: fa fa-cloud
+      icon: cloud upload alternate
       style: basic
       url: https://pan.baidu.com/
 
