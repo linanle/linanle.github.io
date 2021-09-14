@@ -284,9 +284,10 @@
       style: orange
       url: https://www.acfun.cn/
 
-    - name: 腾讯动漫
+    - name: Netflix
+      icon: netflix blue
       style: basic
-      url: https://ac.qq.com/
+      url: https://www.netflix.com/
 
     - name: 虾米
       style: orange
