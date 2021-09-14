@@ -74,17 +74,17 @@
   - name: 工具
     links:
     - name: '百度网盘'
-      icon: fa fa-cloud
+#       icon: fa fa-cloud
       style: basic
       url: https://pan.baidu.com/
 
     - name: Zoho邮箱
-      icon: fa fa-envelope
+#       icon: fa fa-envelope
       style: basic
       url: https://home.zoho.com/home
 
     - name: 奇异のtravel
-      icon: fa fa-plane
+#       icon: fa fa-plane
       style: basic
       url: https://www.q1travel.cloud/aff.php?aff=498
 
