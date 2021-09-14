@@ -84,7 +84,7 @@
       url: https://home.zoho.com/home
 
     - name: 奇异のtravel
-      icon: utensils orange
+#       icon: utensils orange
       style: basic
       url: https://www.q1travel.cloud/aff.php?aff=498
 
