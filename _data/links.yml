@@ -253,7 +253,7 @@
   - name: 娱乐
     links:
     - name: Netflix
-      icon: film blue
+      icon: film black
       style: purple
       url: https://www.netflix.com/
       
