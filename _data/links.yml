@@ -251,6 +251,11 @@
 
   - name: 娱乐
     links:
+    - name: Netflix
+#       icon: netflix blue
+      style: red
+      url: https://www.netflix.com/
+      
     - name: 优酷
       style: basic
       url: https://youku.com/
@@ -283,11 +288,6 @@
     - name: AcFun
       style: orange
       url: https://www.acfun.cn/
-
-    - name: Netflix
-      icon: netflix blue
-      style: basic
-      url: https://www.netflix.com/
 
     - name: 虾米
       style: orange
