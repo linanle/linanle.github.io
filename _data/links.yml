@@ -253,7 +253,7 @@
     links:
     - name: Netflix
 #       icon: netflix blue
-      style: red
+      style: purple
       url: https://www.netflix.com/
       
     - name: 优酷
