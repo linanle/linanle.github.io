@@ -253,7 +253,7 @@
   - name: 娱乐
     links:
     - name: Netflix
-#       icon: netflix blue
+      icon: film blue
       style: purple
       url: https://www.netflix.com/
       
@@ -492,7 +492,7 @@
       style: basic
       url: http://weibo.com/byrbbs
 
-    - name: 论坛投票区
+    - name: 论坛投&票区
       style: basic
       url: http://bbs.byr.cn/#!vote
 
