@@ -83,10 +83,10 @@
       style: basic
       url: https://home.zoho.com/home
 
-    - name: 大众点评
+    - name: 奇异のtravel
       icon: utensils orange
       style: basic
-      url: http://www.dianping.com/
+      url: https://www.q1travel.cloud/aff.php?aff=498
 
     # - name: 网易邮箱
     #   icon: envelope red
