@@ -457,17 +457,17 @@
 
   - name: 论坛相关
     links:
-    - name: 北邮人论坛
+    - name: 吾爱破解
       style: teal
-      url: http://bbs.byr.cn/
+      url: https://www.52pojie.cn/
 
-    - name: 游客版论坛
+    - name: MPGH
       style: basic
-      url: http://bbs.cloud.icybee.cn/
+      url: https://www.mpgh.net/forum/forumdisplay.php?f=124&s=933c84116e9ac1a85bbaefd6d0b6affb
 
-    - name: 检索论坛内容
+    - name: 恩山无线
       style: basic
-      url: http://search.icybee.cn/
+      url: https://www.right.com.cn/forum/forum.php
 
     - name: 检索用户发帖
       style: basic
