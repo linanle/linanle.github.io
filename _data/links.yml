@@ -98,10 +98,10 @@
       style: basic
       url: https://mail.qq.com/
 
-    - name: 新浪邮箱
-      icon: envelope red
+    - name: Google Voice
+      icon: phone green
       style: basic
-      url: https://mail.sina.com.cn/
+      url: https://voice.google.com
 
     - name: Gmail
       icon: google red
