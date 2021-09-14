@@ -1,6 +1,6 @@
 - name: 首页
   icon: home
-  url: /
+  url: https://dh.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/
   active_key: home
 
 - name: 定制化
