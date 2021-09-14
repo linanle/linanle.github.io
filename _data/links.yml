@@ -79,7 +79,7 @@
       url: https://pan.baidu.com/
 
     - name: Zoho邮箱
-#       icon: fa fa-envelope
+      icon: envelope open yellow
       style: basic
       url: https://home.zoho.com/home
 
