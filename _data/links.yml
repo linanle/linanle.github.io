@@ -132,9 +132,10 @@
       style: basic
       url: https://www.tianyancha.com/
 
-    - name: 稿定设计
+    - name: 百度文库
+      icon: book open red
       style: basic
-      url: https://www.gaoding.com/
+      url: https://wk.baidu.com/
 
     - name: MacWk
       style: basic
