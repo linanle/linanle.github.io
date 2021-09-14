@@ -73,15 +73,15 @@
 
   - name: 工具
     links:
-    - name: '12306'
+    - name: '百度网盘'
       icon: train red
       style: basic
-      url: http://www.12306.cn/
+      url: https://pan.baidu.com/
 
-    - name: 快递查询
+    - name: Zoho邮箱
       icon: truck olive
       style: basic
-      url: http://www.kuaidi100.com/
+      url: https://home.zoho.com/home
 
     - name: 大众点评
       icon: utensils orange
