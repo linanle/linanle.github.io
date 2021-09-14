@@ -17,7 +17,7 @@
     {%- if page.active_key == 'home' -%}
         {% include search.html %}
     {%- else -%}
-        <div class="ui text container">
+<!--         <div class="ui text container">
             {% assign page_icon = nil %}
             {%- for item in site.data.menu_items -%}
                 {%- if item.active_key == page.active_key -%}
@@ -33,6 +33,6 @@
             {%- elsif page.active_key == 'donate' -%}
                 <h2 class="ui inverted header">请为辛苦的开发者众筹一杯星冰乐</h2>
             {%- endif -%}
-        </div>
+        </div> -->
     {%- endif -%}
 </div>
