@@ -335,7 +335,7 @@
   shortcut:
     icon: lemon green inverted
     style: black
-    show: true
+    show: false
 
 - id: onejav
   name: OneJav
