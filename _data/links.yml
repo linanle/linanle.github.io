@@ -35,9 +35,9 @@
     #   style: basic
     #   url: http://you.163.com/
 
-    - name: UNIQLO
+    - name: PayPal
       style: red
-      url: http://www.uniqlo.cn/
+      url: https://www.paypal.com/
 
     - name: MUJI
       style: basic
