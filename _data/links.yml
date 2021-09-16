@@ -339,7 +339,7 @@
   - name: 儿童学习区
     links:
     - name: 国家中小学网络云平台
-      style: basic
+      style: pink
       url: https://ykt.eduyun.cn/ykt/index.html
 
     - name: 本科教务系统
