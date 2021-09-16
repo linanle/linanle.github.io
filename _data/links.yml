@@ -336,11 +336,11 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 北邮校园
+  - name: 儿童学习区
     links:
-    - name: 北邮官网
+    - name: 国家中小学网络云平台
       style: basic
-      url: https://www.bupt.edu.cn/
+      url: https://ykt.eduyun.cn/ykt/index.html
 
     - name: 本科教务系统
       style: basic
