@@ -313,13 +313,13 @@
     style: black
     show: false
 
-- id: cilimao
-  name: 磁力猫
-  url: https://cilimao.space/search?word={query}
+- id: javdb
+  name: JavDB
+  url: https://javdb.com/search?from_recent=1&q={query}
   shortcut:
     icon: magnet yellow inverted
     style: black
-    show: false
+    show: true
 
 - id: comicat
   name: 漫猫
