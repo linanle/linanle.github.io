@@ -8,10 +8,15 @@
 #   url: /customize/
 #   active_key: customize
 
-- name: 访客分析
-  icon: chart bar
-  url: /analytics/
-  active_key: analytics
+- name: Bolg
+  icon: blog icon
+  url: https://xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/
+  active_key: customize
+
+# - name: 访客分析
+#   icon: chart bar
+#   url: /analytics/
+#   active_key: analytics
 
 # - name: 捐赠
 #   icon: donate
