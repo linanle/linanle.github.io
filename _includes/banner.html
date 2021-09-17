@@ -4,7 +4,6 @@
 {%- if site.data.banner.message.show -%}
     {%- if site.data.banner.message.hitokoto -%}
         <a id="hitokoto" class="ui black pointing below label"><i class="quote left icon"></i></a>
-        <script src="https://api.ly522.com/Api/Dog?format=js" type="text/javascript"></script>
     {%- else -%}
         <a class="ui {{ site.data.banner.message.color }} pointing below {% unless site.data.banner.message.icon %}{% if site.data.banner.message.image %}image {% endif %}{% endunless %}label" href="{% if site.data.banner.message.link %}{{ site.data.banner.message.link }}{% else %}{{ '/donate/' | relative_url }}{% endif %}" target="_blank">{% if site.data.banner.message.icon %}<i class="{{ site.data.banner.message.icon }} icon"></i>{% elsif site.data.banner.message.image %}<img src="{{ site.data.banner.message.image }}" alt="Message Image">{% endif %}{{ site.data.banner.message.content }}{% if site.data.banner.message.detail %}<div class="detail">{{ site.data.banner.message.detail }}</div>{% endif %}</a>
     {%- endif -%}
