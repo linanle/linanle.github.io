@@ -60,8 +60,11 @@
 .ui.inverted.masthead.segment.bg9:after {
     background-image: url('/images/backgrounds/9.jpg');
 }
-.ui.inverted.masthead.segment.bg10:after {
+/* .ui.inverted.masthead.segment.bg10:after {
     background-image: url('/images/backgrounds/10.jpg');
+} */
+.ui.inverted.masthead.segment.bg10:after {
+    background-image: url('https://api.ly522.com/Api/YiYan?format=js');
 }
 .ui.inverted.masthead.segment.bg11:after {
     background-image: url('/images/backgrounds/11.jpg');
