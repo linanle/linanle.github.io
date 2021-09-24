@@ -257,6 +257,10 @@
       style: purple
       url: https://www.netflix.com/
       
+    - name: 腾讯视频
+      style: basic
+      url: https://v.qq.com/
+      
     - name: 优酷
       style: basic
       url: https://youku.com/
@@ -274,34 +278,30 @@
       style: green
       url: https://iqiyi.com/
 
-    - name: 芒果
+    - name: 简影
       style: orange
-      url: http://mgtv.com/
-
-    - name: 腾讯视频
-      style: basic
-      url: https://v.qq.com/
+      url: https://tv.syrme.top/
 
     - name: 哔哩哔哩
       style: pink
       url: https://bilibili.com/
 
-    - name: AcFun
+    - name: 在线之家
       style: orange
-      url: https://www.acfun.cn/
+      url: https://www.zxzj.me/
 
-    - name: 虾米
+    - name: 真不卡影院
       style: orange
-      url: https://xiami.com/
+      url: http://www.zbkyy.com/
 
-    - name: 豆瓣电影
+    - name: 低端影视
       icon: film blue
       style: basic
-      url: https://movie.douban.com/
+      url: https://ddrk.me/
 
-    - name: FIX
+    - name: 奈菲影视
       style: yellow
-      url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
+      url: https://www.nfmovies.com/
 
     - name: 弯弯
       style: blue
