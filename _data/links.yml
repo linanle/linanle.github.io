@@ -128,9 +128,9 @@
       style: basic
       url: http://caiyunapp.com/map
 
-    - name: 天眼查
+    - name: 速蛙云
       style: basic
-      url: https://www.tianyancha.com/
+      url: https://i.ok9.icu/k8nj
 
     - name: 百度文库
       icon: book open red
