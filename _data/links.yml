@@ -123,10 +123,10 @@
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: 彩云天气
+    - name: 木瓜云
       icon: cloud olive
       style: basic
-      url: http://caiyunapp.com/map
+      url: https://muguacloud.club/auth/register?code=lHpd
 
     - name: 速蛙云
       style: basic
