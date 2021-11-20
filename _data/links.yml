@@ -416,11 +416,11 @@
 
     - name: Jupyter
       icon: code blue
-      style: basic
+      style: purple
       url: http://jupyter.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/login?next=%2Flab%3F
 
     - name: 青龙面板
-      style: basic
+      style: blue
       url: http://xn--fs5a06n.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/
 
 #     - name: 考表查询
