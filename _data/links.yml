@@ -394,67 +394,70 @@
       style: basic
       url: http://buptclass.com/
 
-  - name: 校园助手
+  - name: 个人网站
     links:
-    - name: 空余教室查询
+    - name: 个人博客
+      icon: blog red
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
+      url: https://xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/login.php
 
-    - name: 辅修专业
+    - name: NAS
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+      url: http://nas.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/
 
-    - name: 毕业设计
+    - name: OPENWRT
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
+      url: http://openwrt.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/
 
-    - name: 学生校际选修
-      style: basic
-      url: http://www.xueyuanlu.cn/
+    - name: qBittorrent<i class="file download icon"></i>
+      icon: file download
+      style: green
+      url: http://qb.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/
 
-    - name: 创新学分
+    - name: Jupyter<i class="code icon"></i>
+      icon: code
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
+      url: http://jupyter.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/login?next=%2Flab%3F
 
-    - name: 课表查询
+    - name: 青龙面板
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
+      url: http://xn--fs5a06n.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/
 
-    - name: 考表查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
+#     - name: 考表查询
+#       style: basic
+#       url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
 
-    - name: 出国成绩单办理
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
+#     - name: 出国成绩单办理
+#       style: basic
+#       url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
 
-    - name: 教学事务流程
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
+#     - name: 教学事务流程
+#       style: basic
+#       url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
 
-    - name: 创新实践平台
-      style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
+#     - name: 创新实践平台
+#       style: basic
+#       url: http://cslab.bupt.edu.cn/innovation/
 
-    - name: 申请护照通行证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+#     - name: 申请护照通行证
+#       style: basic
+#       url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
 
-    - name: 补办学生证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+#     - name: 补办学生证
+#       style: basic
+#       url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
 
-    - name: 校园一卡通
-      style: basic
-      url: http://ecard.bupt.edu.cn/
+#     - name: 校园一卡通
+#       style: basic
+#       url: http://ecard.bupt.edu.cn/
 
-    - name: 办公电话
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
+#     - name: 办公电话
+#       style: basic
+#       url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
 
-    - name: 校历
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
+#     - name: 校历
+#       style: basic
+#       url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
 
   - name: 论坛相关
     links:
@@ -470,32 +473,32 @@
       style: basic
       url: https://www.right.com.cn/forum/forum.php
 
-    - name: 检索用户发帖
-      style: basic
-      url: http://search.lovezxp.com/
+#     - name: 检索用户发帖
+#       style: basic
+#       url: http://search.lovezxp.com/
 
-    - name: 查看论坛数据
-      style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
+#     - name: 查看论坛数据
+#       style: basic
+#       url: http://bbs.byr.cn/#!elite/path?v=/bbslists
 
-    - name: 论坛APP
-      icon: app store
-      style: black
-      url: https://apps.apple.com/cn/app/id1115232927
+#     - name: 论坛APP
+#       icon: app store
+#       style: black
+#       url: https://apps.apple.com/cn/app/id1115232927
 
-    - name: 论坛APP
-      icon: google play
-      style: black
-      url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
+#     - name: 论坛APP
+#       icon: google play
+#       style: black
+#       url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
 
-    - name: 论坛官方微博
-      style: basic
-      url: http://weibo.com/byrbbs
+#     - name: 论坛官方微博
+#       style: basic
+#       url: http://weibo.com/byrbbs
 
-    - name: 论坛投&票区
-      style: basic
-      url: http://bbs.byr.cn/#!vote
+#     - name: 论坛投&票区
+#       style: basic
+#       url: http://bbs.byr.cn/#!vote
 
-    - name: 玩转论坛指南
-      style: basic
-      url: http://bbs.byr.cn/#!article/Talking/5852307
+#     - name: 玩转论坛指南
+#       style: basic
+#       url: http://bbs.byr.cn/#!article/Talking/5852307
