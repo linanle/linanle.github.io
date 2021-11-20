@@ -415,7 +415,7 @@
       url: http://qb.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/
 
     - name: Jupyter
-      icon: code blue
+      icon: code red
       style: purple
       url: http://jupyter.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/login?next=%2Flab%3F
 
