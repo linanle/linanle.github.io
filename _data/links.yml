@@ -410,12 +410,12 @@
       url: http://openwrt.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/
 
     - name: qBittorrent<i class="file download icon"></i>
-      icon: file download
+      icon: file download black
       style: green
       url: http://qb.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/
 
     - name: Jupyter<i class="code icon"></i>
-      icon: code
+      icon: code blue
       style: basic
       url: http://jupyter.xn--chqa5m81ra686rsh0f.xn--6qq986b3xl/login?next=%2Flab%3F
 
