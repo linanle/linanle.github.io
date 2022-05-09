@@ -200,9 +200,10 @@
 
   - name: 学习
     links:
-    - name: Coursera
+    - name: 蓝调口琴网
+      icon: music blue
       style: basic
-      url: https://www.coursera.org/
+      url: http://www.tenholes.com/
 
     - name: MOOC
       style: basic
